@@ -28,3 +28,5 @@ jobs:
           tags: |
                 kalharacodes/docker-automation:${{ env.SHORT_SHA }}
                 kalharacodes/docker-automation:latest
+                ashenellawala/docker-automation:${{ env.SHORT_SHA }}
+                ashenellawala/docker-automation:latest
